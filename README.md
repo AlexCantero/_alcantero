@@ -10,7 +10,7 @@
 
 🤖 Hardware Robots and RPA.
 
-![Snake animation](https://github.com/AlexCantero/AlexCantero/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/AlexCantero/AlexCantero/blob/output/github-contribution-grid-snake.svg)
 
 
 <div>
