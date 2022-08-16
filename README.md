@@ -9,6 +9,7 @@
 </br>
 </br>
 
+![](https://github.com/AlexCantero/saitama.gif)
 
 💻 Computer Engineer and Mechatronics Technician.
 
