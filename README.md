@@ -1,15 +1,8 @@
 # Hello, Folks!
 ## My Name is Alex!
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/AlexCantero/saitama.gif">
-</div>
 
-</br>
-</br>
-</br>
-
-![](https://github.com/AlexCantero/saitama.gif)
+![](saitama.gif)
 
 💻 Computer Engineer and Mechatronics Technician.
 
